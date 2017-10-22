@@ -1,0 +1,24 @@
+{
+  "name": "viteproxy",
+  "version": "1.0.0",
+  "description": "vite proxy server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brandon-zeng/ViteProxy.git"
+  },
+  "author": "Brandon Z",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brandon-zeng/ViteProxy/issues"
+  },
+  "homepage": "https://github.com/brandon-zeng/ViteProxy#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "http-proxy": "^1.16.2"
+  }
+}
